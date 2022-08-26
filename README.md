@@ -45,7 +45,7 @@ Yogioteur(요기오떼르)는 **인터넷 간편예약**에 익숙한 **20-30대
 - 형상관리 : [GitHub](https://github.com/OHEJIEUN/GDJ45_YOGIOTEUR "YOGIOTEUR프로젝트")
 
 
-### 📌 주요 기능 - [상세보기](https://github.com/OHEJIEUN/GDJ45_YOGIOTEUR/wiki/%F0%9F%92%A1%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5#%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EA%B0%84 "Wiki의 주요기능으로 이동합니다.")
+### 📌 주요 기능 - [상세보기](https://github.com/OHEJIEUN/GDJ45_YOGIOTEUR/wiki/%E2%9C%85YOGIOTEUR%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5 "Wiki의 주요기능으로 이동합니다.")
 
 
 ### 📌 문제 해결! - [상세보기](https://github.com/OHEJIEUN/GDJ45_YOGIOTEUR/wiki/%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85%E2%9D%97 "Wiki의 트러블 슈팅!으로 이동합니다.")
